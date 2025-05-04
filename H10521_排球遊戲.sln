@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "H10521_排球遊戲", "H10521_排球遊戲\H10521_排球遊戲.vbproj", "{9FB730FE-B6E2-4D7D-8144-4DBA41097C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FB730FE-B6E2-4D7D-8144-4DBA41097C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB730FE-B6E2-4D7D-8144-4DBA41097C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB730FE-B6E2-4D7D-8144-4DBA41097C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB730FE-B6E2-4D7D-8144-4DBA41097C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAB5DD7A-F91B-4717-B637-9AF374AC12C0}
+	EndGlobalSection
+EndGlobal
